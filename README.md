@@ -53,8 +53,8 @@ The main output of this project includes:
 ## Author
 
 **Martí Sales**  
-Final Year Project – Bachelor's Degree in Physical Engineering  
-Universitat Politècnica de València (ETSIT)
+Final Year Project – Bachelor's Degree in Physical Engineering.  
+Universitat Politècnica de València, Escuela Técnica Superior de Ingeniería de Telecomunicación.
 
 ## License
 
